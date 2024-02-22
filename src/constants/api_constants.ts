@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 export const tmdbBaseUrl = "https://api.themoviedb.org";
-export const tmdbKey = process.env.TMDB_KEY;
+export const tmdbKey = "5d4073a36c816ed351bb8fc14aa13358";
 export const daddyliveReferrer = "https://olalivehdplay.ru/z.m3u8";
 export const daddyliveUserAgent = "MXPlayer/1.50.1 (Linux; Android 13; en-GB; SM-M127G Build/TP1A.220624.014.M127GXXU6DWJ1)";
 export const daddyliveStreamBaseUrl = "https://webudit.webhd.ru/lb/premium"
